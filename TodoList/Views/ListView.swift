@@ -14,7 +14,7 @@ struct ListView: View {
                 Image(systemName: "checkmark.circle")
             }
         }
-        .navigationTitle("Todo List 📝")
+        .navigationTitle("Todo List :D:D:D📝")
     }
 }
 
